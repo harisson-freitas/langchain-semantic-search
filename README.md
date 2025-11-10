@@ -48,7 +48,7 @@ Você precisará de uma conta e API key em **um** dos provedores:
   - Cadastro: [ai.google.dev](https://ai.google.dev)
   - API Keys: [makersuite.google.com/app/apikey](https://makersuite.google.com/app/apikey)
 
-## 🔧 Configuração
+## Configuração
 
 ### 1. Clone o repositório
 
